@@ -1,9 +1,5 @@
-# Day #1
+Pixel Art Generator
 
-### Pixel Art Generator
-In this tutorial ([Open in Youtube](https://youtu.be/DfDPJqD3FjI)), I am gonna showing to you how to build a pixel art generator project with javascript. you can call it pixel paint app too❗️
+С помощью этого приложения вы можете создать любое pixel изображение!
 
-# Screenshot
-Here we have project screenshot :
-
-![screenshot](screenshot.jpg)
+[screenshot](https://github.com/aks251/-Pixel-Art-Generator/assets/90463498/3a3b1eeb-4167-49b1-a319-41d566d8be34)
